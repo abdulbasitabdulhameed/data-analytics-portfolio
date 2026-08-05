@@ -42,7 +42,3 @@ Power BI • Power Query • DAX • Microsoft Excel
 
 [Google Drive download link](https://drive.google.com/file/d/1kUy59KuBoszZhzAxVckdvkFMGsfcQkRo/view?usp=sharing)
 
-<img width="808" height="456" alt="Dashboard" src="https://github.com/user-attachments/assets/f3651220-1c85-4698-a574-1d1b57b962f5" />
-
-
-Power BI (.pbix) – [Google Drive download link](https://drive.google.com/file/d/1kUy59KuBoszZhzAxVckdvkFMGsfcQkRo/view?usp=sharing)
