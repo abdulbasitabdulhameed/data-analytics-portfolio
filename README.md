@@ -17,7 +17,7 @@ Welcome to my data analytics portfolio. This repository contains projects that s
 An interactive Power BI dashboard built using the public Olist Brazilian E Commerce dataset to analyze sales performance, customer activity, payment trends, and product performance.
 
 **Project:**
-
+https://github.com/abdulbasitabdulhameed/data-analytics-portfolio/tree/main/Olist-Sales-Performance-Dashboard
 
 **Power BI File (.pbix):**
 https://drive.google.com/file/d/1kUy59KuBoszZhzAxVckdvkFMGsfcQkRo/view?usp=sharing
