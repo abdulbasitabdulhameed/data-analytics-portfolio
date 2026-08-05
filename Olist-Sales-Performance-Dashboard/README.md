@@ -1,4 +1,4 @@
-Olist Sales Performance Dashboard
+#Olist Sales Performance Dashboard
 Project Overview
 This project presents an interactive sales performance dashboard built in Power BI using the public Olist Brazilian E Commerce dataset. The dashboard provides a clear view of sales performance by tracking revenue, orders, customers, payment methods, and product performance through interactive visualizations.
 About the Dataset
