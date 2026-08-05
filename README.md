@@ -20,4 +20,4 @@ An interactive Power BI dashboard built using the public Olist Brazilian E Comme
 
 
 **Power BI File (.pbix):**
-[Google Drive download link](https://drive.google.com/file/d/1kUy59KuBoszZhzAxVckdvkFMGsfcQkRo/view?usp=sharing)
+https://drive.google.com/file/d/1kUy59KuBoszZhzAxVckdvkFMGsfcQkRo/view?usp=sharing
