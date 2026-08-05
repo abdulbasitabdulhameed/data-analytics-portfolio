@@ -39,5 +39,5 @@ Power BI • Power Query • DAX • Microsoft Excel
 
 ## Power BI File
 
-[Google Drive download link](https://drive.google.com/file/d/1kUy59KuBoszZhzAxVckdvkFMGsfcQkRo/view?usp=sharing)
+https://drive.google.com/file/d/1kUy59KuBoszZhzAxVckdvkFMGsfcQkRo/view?usp=sharing
 
