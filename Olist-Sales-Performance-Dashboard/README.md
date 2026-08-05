@@ -17,8 +17,7 @@ The objective of this project is to build an interactive dashboard that helps mo
 The data was prepared in **Power Query** by correcting data types, removing duplicate records, and creating the data model required for analysis. **DAX** measures were then created to calculate the key performance indicators used throughout the dashboard.
 
 ## Dashboard Preview
-
-![Olist Sales Performance Dashboard](dashboard.png)
+<img width="808" height="456" alt="Dashboard" src="https://github.com/user-attachments/assets/b85696ca-6ca0-42d1-a367-35fca0ca65fe" />
 
 ## Key Performance Indicators
 
