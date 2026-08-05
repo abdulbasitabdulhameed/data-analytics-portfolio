@@ -1,42 +1,19 @@
-Data Analytics Portfolio
+# Data Analytics Portfolio
 
-This repository contains my data analytics projects built to solve practical business problems using real-world datasets.
+Welcome to my data analytics portfolio. This repository contains projects that demonstrate my skills in data cleaning, data analysis, and dashboard development using Power BI, SQL, Excel, and DAX.
 
-The projects demonstrate my ability to clean data, build data models, write analytical calculations, create interactive dashboards, and communicate insights that support business decision making.
-
-Technical Skills
+## Skills
 
 - Power BI
-- Power Query
-- DAX
 - SQL
 - Microsoft Excel
-- Data Modeling
-- Data Cleaning and Transformation
-- Data Visualization
+- Power Query
+- DAX
 
-Featured Projects
+## Projects
 
-Power BI
+### Olist Sales Performance Dashboard
 
-- Sales Performance Dashboard
-- Financial Performance Dashboard
-- Customer Churn Dashboard
-- HR Analytics Dashboard
-- Executive Dashboard
+An interactive Power BI dashboard built using the Olist Brazilian E Commerce dataset to analyze sales performance, customer activity, and business trends.
 
-SQL
-
-Business queries, reporting, and data analysis projects.
-
-Excel
-
-Business reporting, dashboard development, and analytical projects.
-
-Python
-
-Data analysis and automation projects.
-
-Objective
-
-To build analytical solutions that help businesses understand performance, identify trends, and make informed decisions through data.
+📂 **Project:** Olist-Sales-Performance-Dashboard
