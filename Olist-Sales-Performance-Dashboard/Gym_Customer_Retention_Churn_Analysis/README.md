@@ -161,7 +161,7 @@ These segments provide practical starting points for retention campaigns and fur
 
 ## Power BI Report
 
-drive.google.com/file/d/1tDTkXGMtxFCWYyoz__SRh8FWKno0owf1/view?usp=sharing
+https://drive.google.com/file/d/1tDTkXGMtxFCWYyoz__SRh8FWKno0owf1/view?usp=sharing
 
 ## Conclusion
 
