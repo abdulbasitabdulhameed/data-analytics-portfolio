@@ -1,47 +1,29 @@
 # Gym Customer Retention & Churn Analysis
 
-## Project Overview
+## Overview
 
-Customer churn is a major problem for membership based businesses because losing existing customers can directly affect recurring revenue.
+A Power BI analysis of gym membership data focused on understanding customer churn, identifying the member groups and behaviours associated with higher churn, and highlighting opportunities for customer retention.
 
-For this project, I analysed gym membership data to understand the level of customer churn and identify the member characteristics and behaviours associated with higher churn.
+## Business Problem
 
-The goal was not just to show how many members left, but to understand which groups were more likely to churn and where the gym could focus its retention efforts.
+The gym needed to understand:
 
-## Business Questions
+- How serious is the current churn problem?
+- Which members are most likely to churn?
+- Which behaviours are associated with higher churn?
+- Where should retention efforts be focused?
 
-The analysis focused on the following questions:
+## Dataset
 
-1. What is the current churn rate and how many members have left?
-2. Which age groups have the highest churn rate?
-3. Does the time remaining on a contract relate to churn?
-4. Do members with lower recent attendance have higher churn?
-5. Do members who participate in group visits have lower churn?
-6. Do referred members have lower churn?
-7. Do partner members have lower churn?
+The Gym Customers Features and Churn dataset was chosen because it combines demographic, membership, attendance, engagement and churn information, making it suitable for analysing customer retention.
 
-## Dashboard
+**Source:** Kaggle
 
-<img width="960" height="538" alt="GYM CUSTOMER RETENTION   CHURN ANALYSIS" src="https://github.com/user-attachments/assets/8f6f6249-13f5-4072-9e04-9ae77963bd1c" />
+## Approach
 
-## Key Metrics
+I cleaned and prepared the data using Power Query, created analytical measures and customer segments using DAX, and built an interactive Power BI dashboard.
 
-The dashboard tracks:
-
-- Total Members
-- Active Members
-- Churned Members
-- Churn Rate
-- Average Additional Charges
-- Average Current Attendance
-
-## Analysis
-
-I used churn rate rather than simply counting churned members when comparing customer groups.
-
-This makes the comparison more meaningful because groups can contain different numbers of members.
-
-The analysis compares churn across:
+The analysis focused on churn across:
 
 - Age groups
 - Contract end periods
@@ -50,29 +32,52 @@ The analysis compares churn across:
 - Referral status
 - Partnership status
 
-## Tools Used
+## Key KPIs
 
-- Power BI
-- Power Query
-- DAX
-- Data Visualization
+| Metric | Result |
+|---|---:|
+| Total Members | 4,000 |
+| Active Members | 3,000 |
+| Churned Members | 1,000 |
+| Churn Rate | 27% |
+| Average Charges | $147 |
+| Average Attendance | 2 |
 
-## Dataset
+## Key Findings
 
-The analysis uses the Gym Customers Features and Churn dataset containing customer demographic, membership, attendance and churn information.
+**Age:**  
+[Insert key age finding]
 
-Source: Kaggle
+**Contract:**  
+[Insert key contract finding]
 
-## What I Learned
+**Attendance:**  
+[Insert key attendance finding]
 
-This project helped me understand how churn analysis differs from a typical sales performance analysis.
+**Group Visits:**  
+[Insert key group visit finding]
 
-Instead of focusing mainly on revenue and transaction volume, the analysis focuses on customer behaviour, engagement and characteristics that may be associated with customers leaving.
+**Referrals:**  
+[Insert key referral finding]
 
-It also gave me practical experience using DAX measures, calculated columns, segmentation and interactive filtering in Power BI.
+**Partnership:**  
+[Insert key partnership finding]
 
-## Conclusion
+## Recommendations
 
-The dashboard provides a view of where churn is concentrated across different customer groups and behaviours.
+Based on the findings, the gym should:
 
-The findings can be used as a starting point for targeted retention strategies, particularly around members showing weaker engagement or approaching the end of their membership period.
+- Prioritise retention efforts toward the customer segments showing the highest churn.
+- Monitor declining attendance as a potential early warning signal.
+- Engage members before their contracts expire where contract timing is associated with higher churn.
+- Encourage activities associated with stronger retention, such as group participation, where supported by the data.
+- Use customer segmentation to target retention campaigns rather than applying the same strategy to every member.
+
+## Dashboard
+
+![Uploading GYM CUSTOMER RETENTION & CHURN ANALYSIS.png…]()
+
+
+## Tools
+
+**Power BI | Power Query | DAX**
