@@ -15,11 +15,9 @@ The gym needed to understand:
 - Which customer behaviours are associated with higher churn?
 - Where should retention efforts be focused?
 
-## Why This Dataset?
+## About The Dataset
 
-The Gym Customers Features and Churn dataset was selected because it combines demographic, membership, contract, attendance, engagement, referral, partnership and churn information.
-
-This made it suitable for investigating not only how many members churned, but also which customer characteristics and behaviours were associated with churn.
+The analysis uses the Gym Customers Features and Churn dataset from Kaggle. The dataset contains member demographics, membership and contract information, attendance behaviour, group participation, referral and partnership status, additional charges, and churn status. These fields provide the information needed to examine where churn is concentrated and which member characteristics are associated with higher churn.
 
 **Dataset:** Gym Customers Features and Churn  
 **Source:** Kaggle
