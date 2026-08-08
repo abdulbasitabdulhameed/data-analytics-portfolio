@@ -2,22 +2,25 @@
 
 ## Overview
 
-A Power BI analysis focused on understanding gym member churn, identifying the customer groups and behaviours associated with higher churn, and highlighting opportunities for improving customer retention.
+This project analyses gym membership data to identify where customer churn is concentrated, which member characteristics and behaviours are associated with higher churn, and where retention efforts should be prioritised.
 
-The analysis moves from the overall churn problem to specific customer segments and engagement patterns that can support targeted retention strategies.
+The analysis transforms membership and engagement data into actionable insights for improving customer retention.
 
 ## Business Problem
 
-The gym needed to understand:
+The gym is experiencing customer churn and needs to understand which members are most at risk of leaving.
 
-- How serious is the current churn problem?
-- Which members are most likely to churn?
-- Which customer behaviours are associated with higher churn?
-- Where should retention efforts be focused?
+The analysis focuses on three key areas:
+
+Who is churning?
+What behaviours are associated with churn?
+Where should the business focus its retention efforts?
 
 ## About The Dataset
 
-The analysis uses the Gym Customers Features and Churn dataset from Kaggle. The dataset contains member demographics, membership and contract information, attendance behaviour, group participation, referral and partnership status, additional charges, and churn status. These fields provide the information needed to examine where churn is concentrated and which member characteristics are associated with higher churn.
+The analysis uses the Gym Customers Features and Churn dataset from Kaggle. It contains member demographics, contract information, attendance behaviour, group participation, referral and partnership status, additional charges, and churn status.
+
+These fields allow the analysis to examine customer characteristics and engagement patterns in relation to churn.
 
 ## Business Questions
 
