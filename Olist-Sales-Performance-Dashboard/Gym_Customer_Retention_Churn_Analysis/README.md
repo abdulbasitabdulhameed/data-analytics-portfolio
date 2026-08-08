@@ -56,17 +56,6 @@ The data was prepared and analysed using Power BI.
 - Used comparison charts to identify differences in churn
 - Added a gender slicer for interactive analysis
 
-## Key KPIs
-
-| KPI | Result |
-|---|---:|
-| Total Members | 4K |
-| Active Members | 3K |
-| Churned Members | 1K |
-| Churn Rate | 27% |
-| Average Charges | $147 |
-| Average Attendance | 1.8 |
-
 ## Dashboard
 
 <img width="960" height="538" alt="GYM CUSTOMER RETENTION   CHURN ANALYSIS" src="https://github.com/user-attachments/assets/8511b01c-139b-42b8-b567-85fb0b4a2f64" />
