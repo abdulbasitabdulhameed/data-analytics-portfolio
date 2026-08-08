@@ -150,9 +150,3 @@ These segments provide practical starting points for retention campaigns and fur
 ## Power BI Report
 
 https://drive.google.com/file/d/1tDTkXGMtxFCWYyoz__SRh8FWKno0owf1/view?usp=sharing
-
-## Conclusion
-
-This project demonstrates how customer data can be transformed into a business focused churn analysis.
-
-Rather than simply reporting the number of customers who left, the analysis identifies where churn is concentrated and highlights customer characteristics and behaviours that can inform targeted retention strategies.
