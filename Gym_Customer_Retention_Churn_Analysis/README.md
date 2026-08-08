@@ -2,27 +2,23 @@
 
 ## Overview
 
-This project analyses gym membership data to identify **where customer churn is concentrated, which member characteristics and behaviours are associated with higher churn, and where retention efforts should be prioritised.**
-
-The analysis transforms membership and engagement data into actionable insights for improving customer retention.
+This project analyses gym membership data to identify where customer churn is concentrated, which member characteristics and behaviours are associated with higher churn, and where retention efforts should be prioritised.
 
 ## Business Problem
 
-The gym is experiencing customer churn and needs to understand which members are most at risk of leaving.
+The gym needs to understand which members are most likely to churn and which factors are associated with customer retention.
 
-The analysis focuses on three key questions:
+The analysis focuses on:
 
-* **Who is churning?**
-* **What behaviours are associated with churn?**
-* **Where should the business focus its retention efforts?**
+* Who is churning?
+* Which behaviours are associated with higher churn?
+* Where should retention efforts be prioritised?
 
 ## About the Dataset
 
 The analysis uses the **Gym Customers Features and Churn** dataset from Kaggle.
 
-The dataset contains member demographics, contract information, attendance behaviour, group participation, referral and partnership status, additional charges, and churn status.
-
-These fields allow the analysis to examine customer characteristics and engagement patterns in relation to churn.
+The dataset contains member demographics, contract information, attendance, group participation, referral and partnership status, additional charges, and churn status.
 
 ## Business Questions
 
@@ -38,119 +34,52 @@ These fields allow the analysis to examine customer characteristics and engageme
 
 The data was cleaned and prepared using **Power Query**.
 
-**DAX** was used to create analytical measures, churn rate calculations, and customer groups required for the analysis.
+**DAX** was used to create measures, calculate churn rates, and create customer groups.
 
-The analysis compared churn rates across:
-
-* Age groups
-* Contract end periods
-* Attendance levels
-* Group visit participation
-* Referral status
-* Partnership status
-
-The results were presented in an interactive **Power BI dashboard** designed to move from the overall churn situation to the customer segments and behaviours associated with higher churn.
+Churn rates were compared across age, contract timing, attendance, group visits, referral status, and partnership status.
 
 ## Dashboard
 
-<img width="960" height="538" alt="GYM CUSTOMER RETENTION   CHURN ANALYSIS" src="https://github.com/user-attachments/assets/9511a745-f9c0-4be5-a2be-bddf5ea637cb" />
+<img width="960" height="538" alt="GYM CUSTOMER RETENTION   CHURN ANALYSIS" src="https://github.com/user-attachments/assets/1e4c845f-d2b9-4fea-83ca-bb0271eed473" />
 
-The dashboard includes:
-
-* Total Members
-* Active Members
-* Churned Members
-* Churn Rate
-* Average Charges
-* Average Attendance
-* Churn Rate by Age Group
-* Churn Rate by Contract End
-* Churn Rate by Attendance Level
-* Churn Rate by Group Visits
-* Churn Rate by Referral
-* Churn Rate by Partnership
-
-A gender slicer allows the analysis to be viewed separately for male and female members.
+The dashboard provides an overview of membership and churn performance, with a gender slicer for additional analysis.
 
 ## Key Findings
 
-### Younger Members Showed the Highest Churn
+* **Age:** Members aged 18 to 24 had the highest churn rate at **66%**, compared with 36% for ages 25 to 29, 12% for ages 30 to 34, and 2% for ages 35 to 41.
 
-Members aged **18 to 24 had a 66% churn rate**, compared with 36% for ages 25 to 29, 12% for ages 30 to 34, and 2% for ages 35 to 41.
+* **Contract timing:** Members with 0 to 2 months remaining had a **42% churn rate**, compared with 13% for 3 to 5 months, 11% for 6 to 8 months, and 2% for 9+ months.
 
-The 18 to 24 segment represents the clearest age based retention risk in the dataset.
+* **Attendance:** Members in the Low attendance group had a **40% churn rate**, compared with 8% among Medium attendance members.
 
-### Churn Increased Near Contract Expiry
+* **Group visits:** Members without group visits had a **33% churn rate**, compared with 17% among members with group visits.
 
-Members with **0 to 2 months remaining on their contract had a 42% churn rate**.
+* **Referral:** Non referred members had a **31% churn rate**, compared with 16% among referred members.
 
-This fell to 13% for members with 3 to 5 months remaining, 11% for 6 to 8 months, and 2% for 9+ months.
-
-This identifies the period approaching contract expiry as an important retention window.
-
-### Low Attendance Was Associated With Higher Churn
-
-Members in the **Low attendance group had a 40% churn rate**, compared with 8% among Medium attendance members.
-
-This suggests that low recent engagement may be a useful early warning signal for potential churn.
-
-### Group Participation Was Associated With Lower Churn
-
-Members who did not participate in group visits had a **33% churn rate**, compared with 17% among members who participated in group visits.
-
-This indicates a strong difference in churn between members with and without group participation.
-
-### Referred Members Had Lower Churn
-
-**Non referred members had a 31% churn rate**, compared with 16% among referred members.
-
-Referred members therefore showed substantially lower churn in this dataset.
-
-### Partner Members Had Lower Churn
-
-Partner members had a **19% churn rate**, compared with 33% among corporate members.
-
-This indicates a notable difference in retention between the two membership groups.
+* **Partnership:** Partner members had a **19% churn rate**, compared with 33% among corporate members.
 
 ## Recommendations
 
-Based on the findings, the gym should:
-
-* **Prioritise younger members**, particularly the 18 to 24 segment, with targeted retention initiatives.
-* **Start renewal engagement before contract expiry**, particularly for members entering their final two months.
-* **Monitor low attendance** and proactively engage members showing weak or declining participation.
-* **Encourage group participation** through classes and community activities where appropriate.
-* **Strengthen referral programmes** while monitoring the retention quality of referred members.
-* **Investigate higher churn among corporate members** to understand whether membership structure, engagement, or contract differences contribute to the gap.
+* Prioritise retention efforts for members aged 18 to 24.
+* Engage members before their contracts enter the final two months.
+* Monitor members with low attendance and intervene early.
+* Encourage group participation as part of member engagement initiatives.
+* Strengthen referral programmes while monitoring member retention.
+* Investigate the higher churn rate among corporate members.
 
 ## Business Impact
 
-The analysis identifies specific customer segments and behaviours that can help the gym move from broad retention efforts toward more targeted interventions.
+The analysis highlights three key churn signals:
 
-The strongest churn signals identified were:
+* **Age 18 to 24: 66% churn**
+* **0 to 2 months remaining: 42% churn**
+* **Low attendance: 40% churn**
 
-* **18 to 24 age group → 66% churn**
-* **0 to 2 months remaining → 42% churn**
-* **Low attendance → 40% churn**
-
-These segments provide clear starting points for targeted retention campaigns and further investigation.
+These findings provide clear areas for targeted retention efforts.
 
 ## Tools
 
 **Power BI | Power Query | DAX**
-
-## Skills Demonstrated
-
-* Customer churn analysis
-* Business problem framing
-* Data cleaning and transformation
-* KPI development
-* Customer segmentation
-* DAX
-* Data visualization
-* Dashboard design
-* Insight generation
-* Business recommendations
 
 ## Power BI Report
 
