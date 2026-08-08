@@ -56,11 +56,9 @@ The data was prepared and analysed using Power BI.
 - Used comparison charts to identify differences in churn
 - Added a gender slicer for interactive analysis
 
-## Key KPIs
-
 ## Dashboard
 
-![Gym Customer Retention & Churn Analysis](Gym%20Customer%20Retention%20%26%20Churn%20Analysis.png)
+![Uploading GYM CUSTOMER RETENTION & CHURN ANALYSIS.png…]()
 
 ## Key Findings
 
