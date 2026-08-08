@@ -58,7 +58,7 @@ The data was prepared and analysed using Power BI.
 
 ## Dashboard
 
-![Uploading GYM CUSTOMER RETENTION & CHURN ANALYSIS.png…]()
+<img width="960" height="538" alt="GYM CUSTOMER RETENTION   CHURN ANALYSIS" src="https://github.com/user-attachments/assets/4f5fef20-9c49-4041-b93f-350543c47964" />
 
 ## Key Findings
 
