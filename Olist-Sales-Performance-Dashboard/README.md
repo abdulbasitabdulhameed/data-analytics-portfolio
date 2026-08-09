@@ -103,22 +103,6 @@ The analysis helps identify where sales activity is concentrated and where manag
 - Power Query
 - DAX
 
-## Skills Demonstrated
-
-- Sales performance analysis
-- Data cleaning and transformation
-- Data modelling
-- KPI development
-- DAX
-- Time-based analysis
-- Product performance analysis
-- Geographic analysis
-- Payment analysis
-- Data visualization
-- Dashboard design
-- Insight generation
-- Business recommendations
-
 ## Power BI Report
 
 https://drive.google.com/file/d/1kUy59KuBoszZhzAxVckdvkFMGsfcQkRo/view?usp=sharing
