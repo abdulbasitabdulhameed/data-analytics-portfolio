@@ -37,7 +37,5 @@ An Excel based financial tracker designed to record income and expenditure, orga
 
 **Project:** https://github.com/abdulbasitabdulhameed/data-analytics-portfolio/tree/main/income-expense-tracker-excel
 
-**Excel Workbook (.xlsx):** 
-
-https://docs.google.com/spreadsheets/d/1d8M2TI_9mbbAKMlLtdSRg4WiyN3gtCJO/edit?usp=sharing&ouid=108492071786507463402&rtpof=true&sd=true
+**Excel Workbook (.xlsx):** https://docs.google.com/spreadsheets/d/1d8M2TI_9mbbAKMlLtdSRg4WiyN3gtCJO/edit?usp=sharing&ouid=108492071786507463402&rtpof=true&sd=true
 
