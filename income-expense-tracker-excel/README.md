@@ -75,6 +75,11 @@ The dashboard provides a monthly overview of income and expenditure, with catego
 
 <img width="311" height="345" alt="Screenshot 2026-08-13 175953" src="https://github.com/user-attachments/assets/086e7fce-e66a-4e2a-aa81-52fd6e528d5e" />
 
+## Project File
+
+https://docs.google.com/spreadsheets/d/1X-GpIGFFiSWp0t-rzgsT5PHQbzyg2a5I/edit?usp=sharing&ouid=108492071786507463402&rtpof=true&sd=true
+
+
 
 
 
