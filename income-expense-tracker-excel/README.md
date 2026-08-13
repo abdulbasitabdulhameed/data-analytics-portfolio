@@ -69,10 +69,10 @@ The dashboard provides a monthly overview of income and expenditure, with catego
 
 ### Transactions
 
-<img width="540" height="305" alt="Screenshot 2026-08-13 174143" src="https://github.com/user-attachments/assets/19cd81b3-4c91-4fd3-ae22-8d72d0dc323b" />
-
+<img width="548" height="464" alt="Screenshot 2026-08-13 175320" src="https://github.com/user-attachments/assets/d3b72318-1280-4b28-93ef-8b52e8aef82e" />
 
 ### Setup
 
-<img width="320" height="413" alt="Screenshot 2026-08-13 174324" src="https://github.com/user-attachments/assets/79b344e1-183e-4253-a9d4-52e965980f30" />
+<img width="232" height="468" alt="Screenshot 2026-08-13 175521" src="https://github.com/user-attachments/assets/132beab7-e978-41ba-880e-81f55efa6edc" />
+
 
