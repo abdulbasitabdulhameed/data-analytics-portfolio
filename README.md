@@ -19,15 +19,16 @@ An interactive Power BI dashboard built using the public Olist Brazilian E Comme
 **Project:**
 https://github.com/abdulbasitabdulhameed/data-analytics-portfolio/tree/main/Olist-Sales-Performance-Dashboard
 
-**Power BI File (.pbix):**
+**Power BI Report (.pbix):**
 https://drive.google.com/file/d/1kUy59KuBoszZhzAxVckdvkFMGsfcQkRo/view?usp=sharing
 
-**Gym Customer Retention Dashboard**
+### Gym Customer Retention Dashboard
 
 An interactive Power BI dashboard built to analyze gym membership retention and customer churn, identifying where churn is concentrated, which member characteristics and behaviours are associated with higher churn, and where retention efforts should be prioritised.
 
 **Project:** 
 https://github.com/abdulbasitabdulhameed/data-analytics-portfolio/tree/main/Gym_Customer_Retention_Churn_Analysis
 
-Power BI File (.pbix): [Drive link]
+**Power BI Report (.pbix):**
+https://drive.google.com/file/d/1tDTkXGMtxFCWYyoz__SRh8FWKno0owf1/view?usp=sharing
 
