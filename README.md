@@ -26,6 +26,8 @@ https://drive.google.com/file/d/1kUy59KuBoszZhzAxVckdvkFMGsfcQkRo/view?usp=shari
 
 An interactive Power BI dashboard built to analyze gym membership retention and customer churn, identifying where churn is concentrated, which member characteristics and behaviours are associated with higher churn, and where retention efforts should be prioritised.
 
-Project: [GitHub link]
+**Project:** 
+https://github.com/abdulbasitabdulhameed/data-analytics-portfolio/tree/main/Gym_Customer_Retention_Churn_Analysis
+
 Power BI File (.pbix): [Drive link]
 
