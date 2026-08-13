@@ -48,9 +48,7 @@ The worksheets were formatted with gridlines removed, controlled borders, and un
 
 ## Dashboard
 
-<img width="705" height="413" alt="Screenshot 2026-08-13 174529" src="https://github.com/user-attachments/assets/f5af29b2-5b58-49e4-965d-127d7672ba08" />
-
-
+<img width="708" height="462" alt="Screenshot 2026-08-13 175044" src="https://github.com/user-attachments/assets/432a52a5-8fbe-42bc-86f7-6002f82b5982" />
 
 The dashboard provides a monthly overview of income and expenditure, with category totals calculated automatically from the transaction records.
 
