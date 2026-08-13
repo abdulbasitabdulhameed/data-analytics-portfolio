@@ -21,3 +21,11 @@ https://github.com/abdulbasitabdulhameed/data-analytics-portfolio/tree/main/Olis
 
 **Power BI File (.pbix):**
 https://drive.google.com/file/d/1kUy59KuBoszZhzAxVckdvkFMGsfcQkRo/view?usp=sharing
+
+**Gym Customer Retention Dashboard**
+
+An interactive Power BI dashboard built to analyze gym membership retention and customer churn, identifying where churn is concentrated, which member characteristics and behaviours are associated with higher churn, and where retention efforts should be prioritised.
+
+Project: [GitHub link]
+Power BI File (.pbix): [Drive link]
+
