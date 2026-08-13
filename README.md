@@ -26,9 +26,7 @@ https://drive.google.com/file/d/1kUy59KuBoszZhzAxVckdvkFMGsfcQkRo/view?usp=shari
 
 An interactive Power BI dashboard built to analyze gym membership retention and customer churn, identifying where churn is concentrated, which member characteristics and behaviours are associated with higher churn, and where retention efforts should be prioritised.
 
-**Project:** 
-
-https://github.com/abdulbasitabdulhameed/data-analytics-portfolio/tree/main/gym-customer-retention-churn-analysis
+**Project:** https://github.com/abdulbasitabdulhameed/data-analytics-portfolio/tree/main/gym-customer-retention-churn-analysis
 
 **Power BI Report (.pbix):**
 https://drive.google.com/file/d/1tDTkXGMtxFCWYyoz__SRh8FWKno0owf1/view?usp=sharing
@@ -37,9 +35,7 @@ https://drive.google.com/file/d/1tDTkXGMtxFCWYyoz__SRh8FWKno0owf1/view?usp=shari
 
 An Excel based financial tracker designed to record income and expenditure, organise transactions by category, and provide a clear monthly overview of financial activity.
 
-**Project:** 
-
-https://github.com/abdulbasitabdulhameed/data-analytics-portfolio/tree/main/income-expense-tracker-excel
+**Project:** https://github.com/abdulbasitabdulhameed/data-analytics-portfolio/tree/main/income-expense-tracker-excel
 
 **Excel Workbook (.xlsx):** 
 
