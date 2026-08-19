@@ -34,7 +34,7 @@ An Excel based financial tracker designed to record income and expenditure, orga
 
 ### Sales Management System
 
-This project is an Excel based sales management system designed to record sales transactions and maintain a structured sales database.
+An Excel based sales management system designed to record sales transactions and maintain a structured sales database.
 
 **Project:** https://github.com/abdulbasitabdulhameed/data-analytics-portfolio/tree/main/sales-management-system
 
