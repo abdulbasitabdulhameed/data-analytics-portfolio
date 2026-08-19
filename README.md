@@ -19,8 +19,6 @@ An interactive Power BI dashboard built using the public Olist Brazilian E Comme
 **Project:**
 https://github.com/abdulbasitabdulhameed/data-analytics-portfolio/tree/main/olist-sales-performance-dashboard
 
-**Power BI Report (.pbix):**
-https://drive.google.com/file/d/1kUy59KuBoszZhzAxVckdvkFMGsfcQkRo/view?usp=sharing
 
 ### Gym Customer Retention Dashboard
 
@@ -28,14 +26,15 @@ An interactive Power BI dashboard built to analyze gym membership retention and 
 
 **Project:** https://github.com/abdulbasitabdulhameed/data-analytics-portfolio/tree/main/gym-customer-retention-churn-analysis
 
-**Power BI Report (.pbix):**
-https://drive.google.com/file/d/1tDTkXGMtxFCWYyoz__SRh8FWKno0owf1/view?usp=sharing
-
 ### Income & Expense Tracker
 
 An Excel based financial tracker designed to record income and expenditure, organise transactions by category, and provide a clear monthly overview of financial activity.
 
 **Project:** https://github.com/abdulbasitabdulhameed/data-analytics-portfolio/tree/main/income-expense-tracker-excel
 
-**Excel Workbook (.xlsx):** https://docs.google.com/spreadsheets/d/1d8M2TI_9mbbAKMlLtdSRg4WiyN3gtCJO/edit?usp=sharing&ouid=108492071786507463402&rtpof=true&sd=true
+### Sales Management System
+
+**Project:** https://github.com/abdulbasitabdulhameed/data-analytics-portfolio/tree/main/sales-management-system
+
+
 
